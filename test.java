@@ -33,6 +33,6 @@ class Main {
     else {
       System.out.println(str1 + " and " + str2 + " are not anagram.");
     }
-    System.out.println("Program Completed");
+    System.out.println("Program ");
   }
 }
